@@ -1,0 +1,4 @@
+h1. WordPress repository
+
+This repository holds the latest stable WordPress release. It is not a clone of the SVN repository.
+
